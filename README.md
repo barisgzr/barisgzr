@@ -1,6 +1,6 @@
 ### Who am i ? 
 - :computer: I am studying computer engineering 2nd grade in Istanbul University - Cerrahpasa.
-- :computer: I've been studying Cyber Security for one and a half year now.
+- :computer: I've been studying Cyber Security for one year now.
 - :computer: Familiar with Linux and Windows environments.
 
 
